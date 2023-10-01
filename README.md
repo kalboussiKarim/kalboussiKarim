@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I am Karim 👋</h1>
-<p align="center>
+<p align="center">
   <a href="https://www.instagram.com/kalboussi_karim"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://www.instagram.com/kalboussi_karim"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
