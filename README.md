@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/karim-kalboussi-471507265"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://www.instagram.com/kalboussi_karim"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/El.Kalboussi.Karim"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/El.Kalboussi.Karim"><img src="https://img.shields.io/badge/facebook-%230188FF?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
 <!--
