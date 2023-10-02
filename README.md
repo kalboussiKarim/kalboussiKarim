@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I am Karim 👋</h1>
+<h1 align="center"> Hi, I am Karim 😄 </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/karim-kalboussi-471507265"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://www.instagram.com/kalboussi_karim"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -10,7 +10,7 @@
 **kalboussiKarim/kalboussiKarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
