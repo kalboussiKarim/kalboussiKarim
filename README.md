@@ -23,9 +23,9 @@
 </br>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalboussiKarim)
-</br>
-</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalboussiKarim)
+</div>
+
 
 <!--
 **kalboussiKarim/kalboussiKarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
