@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlhaml0N214dnF5dmFtaTFtcWlkNDZqdWFidHI3Y3JuenI2cHI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukMiDlCmdv2og/giphy.gif" width="400" height="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlhaml0N214dnF5dmFtaTFtcWlkNDZqdWFidHI3Y3JuenI2cHI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukMiDlCmdv2og/giphy.gif" width="300" height="200"/>
 </div>
 
 <h4> :hammer_and_wrench: Languages and Tools :</h4>
