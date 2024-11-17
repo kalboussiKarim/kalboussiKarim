@@ -12,14 +12,14 @@
   <a href="https://www.facebook.com/El.Kalboussi.Karim"><img src="https://img.shields.io/badge/facebook-%23316FF6?style=flat&logo=facebook&logoColor=white"/></a>
   <a href="https://www.youtube.co"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a> -->
 </p>
-<h4> :hammer_and_wrench: Languages and Tools :</h4>
-<div>
+
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlhaml0N214dnF5dmFtaTFtcWlkNDZqdWFidHI3Y3JuenI2cHI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukMiDlCmdv2og/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlhaml0N214dnF5dmFtaTFtcWlkNDZqdWFidHI3Y3JuenI2cHI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukMiDlCmdv2og/giphy.gif" width="500" height="300"/>
 </div>
 
-
+<h4> :hammer_and_wrench: Languages and Tools :</h4>
+<div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,git,linux,html,css,react,redux,php,postman,nodejs,express,mongodb,mysql,figma,github,java,py,selenium" />
