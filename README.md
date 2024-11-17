@@ -5,6 +5,7 @@
   a freshly graduated Software Engineer
 </h2>
 </br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/karim-kalboussi-471507265"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=instagram&logoColor=white"/></a>
 <!--   <a href="https://www.instagram.com/kalboussi_karim"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -13,6 +14,10 @@
 </p>
 <h4> :hammer_and_wrench: Languages and Tools :</h4>
 <div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlhaml0N214dnF5dmFtaTFtcWlkNDZqdWFidHI3Y3JuenI2cHI2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukMiDlCmdv2og/giphy.gif" width="600" height="300"/>
+</div>
 
 
 <p align="center">
