@@ -1,9 +1,9 @@
-<h1 align="center"> Hi, I am Karim 😄 </h1>
 <h2 align="center">
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/>
   ,I am Karim.
   I'm a Software Engineer
+</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/karim-kalboussi-471507265"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=instagram&logoColor=white"/></a>
 <!--   <a href="https://www.instagram.com/kalboussi_karim"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
