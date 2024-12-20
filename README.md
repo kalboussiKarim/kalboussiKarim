@@ -29,7 +29,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalboussiKarim)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kalboussiKarim" frameborder="0"></iframe>
 
 </div>
 
