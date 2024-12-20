@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kalboussiKarim"></img>
+![Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?kalboussikarim)
 
 </div>
 
