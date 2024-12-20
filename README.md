@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kalboussiKarim" frameborder="0"></iframe>
+<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kalboussiKarim"></img>
 
 </div>
 
